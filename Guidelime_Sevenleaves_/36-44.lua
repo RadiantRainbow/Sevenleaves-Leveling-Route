@@ -233,6 +233,7 @@ When the quest is completed deliver [QT642 The Princess Trapped] at the back of 
 Get the stones in this order: \\East/South/(West done later)[OC]
 Get the 3 Keys \\[QC651,1 Burning Key][L25.5,30.1]\\[QC651,2 Cresting Key][L66.7,29.7Arathi Highlands][L36.2,57.4]\\[QC651,3 Thundering Key][L52,50.7]
 Walk into Stormgarde Keep \\Kill Marez Cowl for [G29.6,63][QC673 Foul Magics].
+Kill Syndicate members for [QC639 Sigil of Strom]
 
 Turn in [G36.2,57.4][QT651 Stones of Binding]
 

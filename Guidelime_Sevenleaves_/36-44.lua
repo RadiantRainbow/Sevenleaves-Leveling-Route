@@ -225,7 +225,7 @@ Walk back to Tarren Mill \\Deliver [G62.15,82.53Alterac Mountains][QT508 Taretha
 
 Deliver [G73.8,34Arathi Highlands][QT638 Trollbane]
 
-Accept the quests: \\[G51.02,94.05Arathi Highlands][QA678 Call to Arms]\\[G51.46,96.27Arathi Highlands[QA673 Foul Magics] \\[G51.46,96.27Arathi Highlands][QA701 Guile of the Raptor] \\[G73,34Arathi Highlands][QA639 Sigil of Strom].
+Accept the quests: \\[G51.02,94.05Arathi Highlands][QA678 Call to Arms]\\[G51.46,96.27Arathi Highlands][QA673 Foul Magics] \\[G51.46,96.27Arathi Highlands][QA701 Guile of the Raptor] \\[G73,34Arathi Highlands][QA639 Sigil of Strom].
 Walk up the small path up the mountain into the cave near Hammerfall[OC]
 Go do the quest [G60.58,92.8The Hinterlands][QC642 The Princess Trapped]
 

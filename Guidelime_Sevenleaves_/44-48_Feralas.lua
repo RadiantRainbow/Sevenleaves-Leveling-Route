@@ -40,7 +40,7 @@ Run back to Camp Mojache \\Turn in [G23.55,88.01The Barrens][QT7730 Zukk'ash Inf
 Go complete [G13.97,97.46The Barrens][QC2980 The Ogres of Feralas Part 2] \\[G60.26,68.78Feralas][QC2979 Dark Ceremony]
 Don't start the escort[OC]
 
-Get a Hippogryph egg for [G57.52,76.51Feralas][QC2741 The Super Egg-O-Matic]
+Get a Hippogryph egg for [G57.52,76.51Feralas][QA2741 The Super Egg-O-Matic]
 
 Do the escort [G8.77,97.09The Barrens][QA2767 Rescue OOX-22/FE!]
 

@@ -392,9 +392,10 @@ Accept the quest [G77.21,77.41Thousand Needles][QA1194 Rizzle's Schematics] \\De
 Then walk back to Gadgetzan \\Deliver [G51.56,26.75Tanaris][QT2864 Tran'rek]
 [S]Make Gadgetzan your home.
 
-
 [F]Fly to Brackenwall Village in Dustwallow[OC]
 Accept the following quests: \\[G54.86,70.22The Barrens][QA1168 Army of the Black Dragon] \\[G54.75,71.1The Barrens][QA1169 Identifying the Brood] \\[G54.3,70.23The Barrens][QA1166 Overlord Mok'Morokk's Concern]
+
+If Mudsproket exists in your game version, walk down and get the flight path. Accept all quests and do them.
 
 Walk south and complete the quests: \\[G65.03,13.77Thousand Needles][QC1168 Army of the Black Dragon] \\ [G66.66,14.14Thousand Needles][QC1169 Identifying the Brood] \\[G65.43,12.88Thousand Needles][QC1166 Overlord Mok'Morokk's Concern] \\For Overlord Mok'Morokk's Concern you will have to run to the back of the cave. 
 

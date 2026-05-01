@@ -172,9 +172,7 @@ Accept [G25.81,68.21Desolace][QA5581 Portals of the Legion]
 
 Walk down to the Centuar, Uthek the Wise \\Deliver [G36.21,79.24Desolace][QT1373 Ongeku] \\Accept [G36.21,79.24Desolace][QA1374 Khan Jehn].
 
-Walk north into Valley of the Spears and do the escort quest [G33.94,53.49Desolace][QA6132 Get Me Out of Here!]
-
-Deliver the escort [G47.83,61.82Desolace][QT6132 Get Me Out of Here!] \\Accept [G47.83,61.82Desolace][QA6134 Ghost-o plasm Round Up]
+Accept [G47.83,61.82Desolace][QA6134 Ghost-o plasm Round Up]
 
 Walk north towards [G66.3,32.8]Kermek's Hut and find the giant named Deepstrider Giant \\Kill the giant by kiting it around for [QC1383,3 Nothing But The Truth]
 

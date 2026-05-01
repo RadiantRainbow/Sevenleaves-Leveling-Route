@@ -212,6 +212,7 @@ Deliver [QT32 Rise of the Silithid] \\Accept [G59.48,36.57Orgrimmar][QA649 Rippl
 Turn [QT649] in and accept [QA650 Part 2]
 Take the Zeppelin to Undercity[OC]
 Deliver [G50.14,67.97Undercity][QT864 Return to Apothecary Zinge]
+Accept [G73,32Undercity][QA2995 Lines of Communication] from Oran Snakewrithe
 [F]Fly to Tarren Mill[OC]
 Walk into the Hinterlands \\Accept [G23.53,58.79The Hinterlands][QA2933 Venom Bottles]
 Turn in [QT650 Ripple Recovery] \\Accept [G26.71,48.59The Hinterlands][QA77 A Sticky Situation]

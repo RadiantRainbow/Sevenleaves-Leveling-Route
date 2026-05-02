@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 [N48-50 Onwards]
 [GA Horde]
 
-Accept the following quests:\\[G24.43,88.95The Barrens][QA4120 The Strength of Corruption] \\[G24.43,88.95The Barrens][QA3063 Vengeance on the Northspring] \\[G24.43,88.95The Barrens][QA3062 Dark Heart] \\[G30.63,42.7Feralas][QA7733 Improved Quality] \\[G23.22,88.63The Barrens][QA3128 Natural Materials] \\[G74.4,43.4Feralas][QA3380 The Sunken Temple]
+Accept the following quests:\\[G24.43,88.95The Barrens][QA4120 The Strength of Corruption] \\[G24.43,88.95The Barrens][QA3063 Vengeance on the Northspring] \\[G24.43,88.95The Barrens][QA3062 Dark Heart] \\[G30.63,42.7Feralas][QA7734 Improved Quality] \\[G23.22,88.63The Barrens][QA3128 Natural Materials] \\[G74.4,43.4Feralas][QA3380 The Sunken Temple]
 
 Deliver [G23.22,88.63The Barrens][QT3123 Testing the Vessel] \\Accept [G23.22,88.63The Barrens][QA3124 Hippogryph Muisek]
 
@@ -19,9 +19,7 @@ Accept the follow up quest [G23.22,88.63The Barrens][QA3127 Mountain Giant Muise
 
 Walk back to the Hippogryphs and farm them until you complete [G55.25,72.61Feralas][QC3128 Natural Materials]
 
-
-
-Then walk north and complete the quest [G8.46,80.32The Barrens][QC7733 Improved Quality] by farming the Yetis in the cave.
+Then walk north and complete the quest [G8.46,80.32The Barrens][QC7734 Improved Quality] by farming the Yetis in the cave.
 
 Walk to the shore and accept [G2.91,88.67The Barrens][QA7725 Again With the Zapped Giants]
 

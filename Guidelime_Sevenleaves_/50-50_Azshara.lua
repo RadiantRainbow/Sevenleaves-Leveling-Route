@@ -25,7 +25,7 @@ Complete [G37.53,53.48,119Azshara][QC3517 Stealing Knowledge] \\Make sure to kil
 Walk back and deliver [G22.25,51.47Azshara][QT3506 Betrayed Part 3] \\Deliver [G22.56,51.42Azshara][QT3517 Stealing Knowledge]
 Accept the following quests: \\[G22.56,51.42Azshara][QA3542 Delivery to Andron Gant] \\[G22.56,51.42Azshara][QA3561 Delivery to Archmage Xylem] \\[G22.56,51.42Azshara][QA3541 Delivery to Jes'rimon] \\[G22.56,51.42Azshara][QA3518 Delivery to Magatha] \\[G22.25,51.47Azshara][QA3507 Betrayed Part 4]
 
-Accept [G28.11,50.08Azshara][QA3381 A Meeting with the Master] \\Deliver [G62.91,96.37Winterspring][QT3561 Delivery to Archmage Xylem] \\Accept [G62.91,96.37Winterspring][QA3565 Xylem's Payment to Jediga]
+Accept [G28.11,50.08Azshara][QA3503 A Meeting with the Master] \\Deliver [G62.91,96.37Winterspring][QT3561 Delivery to Archmage Xylem] \\Accept [G62.91,96.37Winterspring][QA3565 Xylem's Payment to Jediga]
 Deliver [G22.56,51.42Azshara][QT3565 Xylem's Payment to Jediga] \\Deliver [G79.87,83.01Winterspring][QT5534 Kim'jael's "Missing" Equipment]
 
 [H]Heart to Ratchet and take the boat to Booty Bay[OC]

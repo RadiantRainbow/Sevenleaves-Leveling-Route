@@ -48,7 +48,7 @@ Then walk to Sprinkle and deliver [G51.05,26.87Tanaris][QT2641 Sprinkle's Secret
 Take the follow up quest [G51.05,26.87Tanaris][QA2661 Delivery for Marin] and deliver it to [G51.8,28.66Tanaris][QT2661 Delivery for Marin]. Take the 5 Noggenfogger Elixirs. \\Buy 15 more so you have 20 and keep them in your bag.
 
 
-Walk south and deliver [QT3380 The Sunken Temple] \\Accept the followup quest [G52.7,45.92Tanaris][QT3444 The Stone Circle]
+Walk south and deliver [QT3380 The Sunken Temple] \\Accept the followup quest [G52.7,45.92Tanaris][QA3444 The Stone Circle]
 
 
 Walk down to Steamwheddle port and accept the quest [G67,24Tanaris][QA4324 Yuka Screwspigot]

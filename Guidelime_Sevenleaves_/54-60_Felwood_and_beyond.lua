@@ -37,9 +37,10 @@ Deliver [G0.54,72.33Winterspring][QT4521 Wild Guardians] \\Accept [G0.54,72.33Wi
 
 Kill Slimes until you have at least 15 Felwood Slime Samples[OC]
 Deliver the following: \\[G10.27,96.89Winterspring][QT4102 Cleansing Felwood] \\[G13.89,96.07Winterspring][QT5155 Forces of Jaedenar] \\[G13.63,95.67Winterspring][QT5156 Verifying the Corruption] \\Accept [G13.89,96.07Winterspring][QA5157 Collection of the Corrupt Water]
-Make sure to accept Cenarion Beacon from Maybess Riverbreeze (10,97)[OC]
+Make sure to get item [CI11511,Cenarion Beacon] from Maybess Riverbreeze where you accepted quests(46,83)[OC]
 
-Complete [G49.1,30.01Ashenvale][QC6162 A Husband's Last Battle] \\Complete [G35,59Felwood][QC5157 Collection of the Corrupt Water] by using the Empty Canteen in the corrupt moonwell
+Complete [G49.1,30.01Ashenvale][QC6162 A Husband's Last Battle]
+Complete [G35,59Felwood][QC5157 Collection of the Corrupt Water] by using the Empty Canteen in the corrupt moonwell
 
 Deliver [G13.89,96.07Winterspring][QT5157 Collection of the Corrupt Water] \\Accept [G13.89,96.07Winterspring][QA5158 Seeking Spiritual Aid]
 

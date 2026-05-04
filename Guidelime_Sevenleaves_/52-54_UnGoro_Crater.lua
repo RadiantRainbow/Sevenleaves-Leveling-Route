@@ -10,7 +10,7 @@ Kill Gorishi mobs until Gorishi Scent Gland drops for [G47.93,84.04,172Un'Goro C
 Accept [G63.02,68.6Un'Goro Crater][QA3844 It's a Secret to Everybody] \\Deliver [G63.1,69.1Un'Goro Crater][QT3844 It's a Secret to Everybody] \\[G63.1,69.05Un'Goro Crater][QA3845 It's a Secret to Everybody Part 2]
 Complete [G68.73,56.7Un'Goro Crater][QC4290 The Fare of Lar'korwi] \\Deliver [G71.63,75.95Un'Goro Crater][QT4290 The Fare of Lar'korwi] \\Accept [G71.63,75.95Un'Goro Crater][QA4291 The Scent of Lar'korwi]
 Complete [G66.3,63.93Un'Goro Crater][QC4291 The Scent of Lar'korwi] \\Deliver [G71.63,75.95Un'Goro Crater][QT4291 The Scent of Lar'korwi] \\Accept [G71.63,75.95Un'Goro Crater][QA4292 The Bait for Lar'korwi]
-Complete [G79,49Un'Goro Crater][QC4292 The Bait for Lar'korwi]
+Complete [G79,49Un'Goro Crater][QC4292 The Bait for Lar'korwi] . You will need to open a "Small Pack" in your inventory to place the carcass.
 
 Continue walking north and picking up soil to complete the quest [QC4496 Bungle in the Jungle]
 Walk west and complete [G21.34,90.36,155Thousand Needles][QC4504 Super Sticky]

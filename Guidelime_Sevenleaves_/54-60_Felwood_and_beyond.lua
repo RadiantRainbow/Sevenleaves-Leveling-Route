@@ -12,6 +12,8 @@ Complete [G3.56,78.75,137Winterspring][QC5155 Forces of Jaedenar]
 
 Accept the following: \\[G0.6,72.27Winterspring][QA6162 A Husband's Last Battle] \\[G0.11,71.96Winterspring][QA4505 Well of Corruption] \\[G0.54,72.33Winterspring][QA4521 Wild Guardians]
 
+Activate the flight point in [P Bloodvenom Post]
+
 Complete [G8.07,62.13,143Winterspring][QC5156 Verifying the Corruption] \\[G17.63,50.02,140Winterspring][QC4120 The Strength of Corruption] \\[G19.61,46.18,165Winterspring][QC4102 Cleansing Felwood]
 
 Deliver [G24.87,36.15Winterspring][QT8462 Speak to Nafien] \\Accept [G24.87,36.15Winterspring][QA8461 Deadwood of the North]

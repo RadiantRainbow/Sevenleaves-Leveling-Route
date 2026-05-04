@@ -19,7 +19,10 @@ Accept [G15.22,77.92Thousand Needles][QA4503 Shizzle's Flyer] \\[G14.63,75.27Tho
 Deliver [G15.58,74.99Thousand Needles][QT3845 It's a Secret to Everybody Part 2]
 
 [F]Fly to Gadgetzan[OC]
+
 Deliver [G50.88,26.96Tanaris][QT4496 Bungle in the Jungle] \\Deliver [G51.56,26.75Tanaris][QT4504 Super Sticky] \\Accept [G50.88,26.96Tanaris][QA4507 Pawn Captures Queen]
+
+Make sure you have [CI10561,1 Mithril Casing] before flying back. Grab one from the auction house on your bank alt.
 
 [F]Fly back to Un'Goro[OC]
 Accept [G14.93,74.26Thousand Needles][QA3883 Alien Ecology] \\Accept [G14.98,74.18Thousand Needles][QA3881 Expedition Salvation]

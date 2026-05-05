@@ -274,7 +274,7 @@ Deliver [G60.88,37.61Winterspring][QT5163 Are We There, Yeti?]
 
 [F]Fly to Moonglade and deliver: \\[G51.68,45.09Moonglade][QT5527 A Reliquary of Purity] \\[G44.88,35.6Moonglade][QT6844 Umber, Archivist] \\Accept [G44.88,35.6Moonglade][QA6845 Uncovering Past Secrets] \\Deliver [G51.68,45.09Moonglade][QT6845 Uncovering Past Secrets]
 Accept [G44.88,35.6Moonglade][QA1185 Under the Chitin Was...]
-[F]Fly to Felwood[OC]
+[F]fly to Bloodvenom Post Felwood[OC]
 
 Deliver [G14,95.58Winterspring][QT3942 Linken's Memory] \\Deliver [G13.83,95.78Winterspring][QT5128 Words of the High Chief]
 
